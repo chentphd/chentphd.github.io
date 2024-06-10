@@ -2,24 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://github.com/chentphd'>GitHub</a>
 
 profile:
   align: right
   image: Data_Science_Cover_Photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>tonychen@umich.edu</p>
+    <p>linkedin.com/in/chentphd</p>
+    <p><a href='https://github.com/chentphd'>GitHub</a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Tony Chen, a data enthusiast with a robust academic foundation and practical experience in Statistics and Mathematics. I earned my Master of Science in Statistics from Stony Brook University, where I also served as a Graduate Teaching Assistant in the Applied Mathematics and Statistics Department. Prior to this, I was a PhD student at Binghamton University and completed my Bachelor of Science in Mathematics at the University of Michigan.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my academic journey, I have been deeply involved in teaching and mentoring roles, including leading a team of teaching assistants at Binghamton University and supporting undergraduate courses at Stony Brook University. My responsibilities have ranged from grading assignments and exams to developing Python scripts for demonstrating complex concepts.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have undertaken several projects that highlight my technical skills and ability to handle real-world data challenges. Notable projects include:
+
+- **Open Data Pipeline Optimization**: Developed a Python-based ETL pipeline to streamline data processing, enhance data quality through validation mechanisms, and document the process for future use.
+- **Public Transit Dashboard**: Created a Power BI dashboard integrating data from APIs and local databases to visualize key performance indicators of public transit systems.
+- **Spam Classification Webapp**: Built a Streamlit web application with a machine learning model to classify emails as spam, deployed on Heroku for accessibility and reliability.
+
+My technical skills encompass a wide range of tools and languages, including Python, SQL, R, Power BI, Tableau, and various web development technologies. I am proficient in data management with Excel, Pandas, and NumPy, and have experience with cloud platforms like AWS.
+
+I excel in communication, both written and oral, and have a proven ability to present complex data insights to non-technical stakeholders. My analytical skills enable me to interpret and model complex datasets effectively, and I have a strong track record of documenting processes for clarity and usability.
+
+For more information about my work and projects, feel free to visit my [GitHub](https://github.com/chentphd).
