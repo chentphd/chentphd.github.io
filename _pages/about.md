@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>tonychen@umich.edu</p>
     <p>linkedin.com/in/chentphd</p>
-    <p><a href='https://github.com/chentphd'>GitHub</a></p>
+    <p>https://github.com/chentphd</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
